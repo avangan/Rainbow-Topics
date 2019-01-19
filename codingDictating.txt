@@ -7,5 +7,4 @@ Commands for Coding Dictating
 •	 pull p5.js API
 •	 Dictionary definition for words it doesn’t know
 •	Move cursor around commands
-•	Bugfixes?
-Using github with visual studo
+
